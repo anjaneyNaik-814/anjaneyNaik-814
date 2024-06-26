@@ -6,14 +6,17 @@ body{
     position: fixed;
     left: 450px;
 }
+
 h2{
     color: brown;
     text-align: center;
     text-transform:capitalize;
 }
+
 button{
     background-color: green;
 }
+
 form{
     text-align: left;
 }
