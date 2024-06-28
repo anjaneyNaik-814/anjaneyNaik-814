@@ -1,0 +1,31 @@
+*{
+    color: black;
+    text-decoration:none;
+}
+header img{
+    height:100px;
+    border-radius: 50%;
+    text-align:center;
+}
+header{
+    text-align: center;
+}
+b{
+    color:rgb(220, 20, 113);
+}
+p{
+    color:chocolate;
+}
+ab{
+    color:cadetblue;
+}
+button{
+    background-color:green;
+    width: 100px;
+    
+}
+body{
+    background-color: black;
+}
+
+
